@@ -1,39 +1,41 @@
-<h1 align="center">Hi, I'm Priti Sonawane 👋</h1>
+👋 Hi, I'm Priti Sonawane
+RPA Developer | Automation Enthusiast | Python Programmer
 
-<h3 align="center">Software Development | Python | SQL | Web Technologies</h3>
+<p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FA4616&center=true&vCenter=true&width=600&lines=Building+Smarter+Automations;Exploring+Python+%26+RPA;Automating+Workflows;Learning+Through+Real-World+Projects" alt="Animated introduction"/> </p>
 
-<p align="center">
-  Building practical solutions through programming, application development, and continuous learning.
-</p>
+Packaged Application Development Analyst @ Accenture
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+B.E. Computer Science | Professional Experience: 3 Years
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
-I'm **Priti Sonawane**, a Computer Science Engineering graduate working as a **Packaged Application Development Analyst at Accenture**.
+I'm a Computer Science Engineering graduate working at Accenture as a Packaged Application Development Analyst, with professional experience in application development and automation technologies.
 
-With three years of professional experience, I am interested in software development, programming, application technologies, and building practical solutions to real-world problems.
+My technical interests include Robotic Process Automation (RPA), workflow automation, Python programming, and application development.
 
-My technical interests include Python programming, SQL, web technologies, API integration, and application development.
-
-* 🎓 **Education:** B.E. in Computer Science Engineering
-* 💼 **Professional Experience:** 3 years at Accenture
-* 💻 **Programming Lannguages:** Python, SQL, JavaScript, VB.NET
-* 🔧 **Technology Interests:** RPA Development, Intelligent Automation, Python Automation, SQL, Workflow Automation, API Integration, AI Automation
-* 🌱 **Current Focus:** Developing scalable RPA solutions using UiPath and Python. Automating repetitive business processes and improving operational effeciency
-* 🎯 **Goal:** Build maintainable, useful, and well-documented software solutions
+🤖 Interested in RPA and intelligent workflow automation.
+🐍 Exploring Python for programming and automation.
+⚙️ Working with automation technologies, including UiPath, Automation Anywhere, and Microsoft Power Automate.
+🌱 Focused on continuous learning and practical problem-solving.
+🎯 Aspiring to build reliable, maintainable, and efficient software solutions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🤖 RPA & Automation
+### 🤖 RPA & Workflow Automation
+
+<p>
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath"/>
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6600?style=for-the-badge&logoColor=white" alt="Automation Anywhere"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Microsoft Power Automate"/>
+</p>
+
+### 💻 Programming & Web Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -47,10 +49,10 @@ My technical interests include Python programming, SQL, web technologies, API in
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </p>
 
-### 📊 Data & Analytics Tools
+### 📊 Data Analytics & Visualization
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -59,6 +61,7 @@ My technical interests include Python programming, SQL, web technologies, API in
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
+
 
 
 ## 🚀 Featured Projects
